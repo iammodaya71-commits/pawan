@@ -1,2 +1,2 @@
-# pawan
-Free Sc Bot MD By GIMA
+# GIMA-MD
+Free Bot MD By GIMA-MD
